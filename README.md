@@ -1,2 +1,2 @@
-# basic-portfolio
-Assignment 1, U of T Bootcamp
+# bootstrap-portfolio
+Assignment 2, U of T Bootcamp
